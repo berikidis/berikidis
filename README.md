@@ -1,5 +1,5 @@
 Hi, I'm Gregory!
 
-I'm a front-end web developer and I enjoy working with Javascript, especially with React. Learning new things, building cool things everyday. I like also to contribute to an open-source projects. You can find me on [@berikidis](https://twitter.com/berikidis "Twitter") and my website at [berikidis.com](https://berikidis.com).
+As a front-end web developer, I am passionate about working with JavaScript, particularly with React. I enjoy learning new things and building projects on a daily basis. I also like to contribute to open-source projects. You can find me on [@berikidis](https://twitter.com/berikidis "Twitter") and my website is [berikidis.com](https://berikidis.com).
 
 🥂 Cheers!
